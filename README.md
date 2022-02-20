@@ -1,7 +1,7 @@
 ## Olá visitante, eu sou o Runnan C-137
 
 <main>
-<div style="margin: auto">
+<div>
   <a href="https://github.com/RunnanC-137"> 
   <img height="190em" width="100%" src="https://github-readme-stats.vercel.app/api?username=RunnanC-137&show_icons=true&theme=city_lights"/> <br>
   <img height="190em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RunnanC-137&layout=compact&theme=apprentice" />
