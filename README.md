@@ -1,5 +1,6 @@
 ## Olá visitante, eu sou o Runnan C-137
 
+<main>
 <div style="margin: auto">
   <a href="https://github.com/RunnanC-137"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RunnanC-137&show_icons=true&theme=city_lights"/>
@@ -44,4 +45,7 @@
   <img align="center" height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
   </div>
+
+</main>
+
   
