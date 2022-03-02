@@ -22,7 +22,7 @@
 
 ### 
 
-<div style="display: flex;"><br>
+<div style="display: flex;" width="100%"><br>
 
   <a  href="https://www.instagram.com/ruan.rolim.75/"> <img align="center" height="30" width="100" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a/>
    
@@ -34,10 +34,10 @@
    
   <a href="mailto:email_que_recebe_as_mensagens@exemplo.com?Subject=Título%20da%20mensagem"> <img align="center" height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 
+   
+  ![Snake animation](https://github.com/RunnanC-137/RunnanC-137/blob/output/github-contribution-grid-snake.svg)
  </div>
  
-   ![Snake animation](https://github.com/RunnanC-137/RunnanC-137/blob/output/github-contribution-grid-snake.svg)
-
   
 
 </main>
