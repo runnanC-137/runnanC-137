@@ -22,20 +22,27 @@
 
 ### 
 
-<div style="display: inline-block; margin: auto;"><br>
+<div style="display: flex;"><br>
 
-  <img align="center" height="30" width="100" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/ruan.rolim.75/">
-  <img align="center" height="30" width="100" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  <img align="center" height="30" width="100" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  <img align="center" height="30" width="100" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  <img align="center" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <img align="center" height="30" width="100" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  <img align="center" height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a  href="https://www.instagram.com/ruan.rolim.75/"> <img align="center" height="30" width="100" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a/>
+   
+  <a href="https://www.facebook.com/ruan.rolim.75/"> <img align="center" height="30" width="100" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
+   
+  <a href="https://www.instagram.com/ruan.rolim.75/"> <img align="center" height="30" width="100" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
+   
+  <a href="https://www.instagram.com/ruan.rolim.75/"> <img align="center" height="30" width="100" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
+   
+  <a href="linkedin.com/in/ruan-vieira-04a9ab1b9"> <img align="center" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+   
+  <a href="https://api.whatsapp.com/send?phone=(63)992932391"> <img align="center" height="30" width="100" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
+   
+  <a href="mailto:email_que_recebe_as_mensagens@exemplo.com?Subject=Título%20da%20mensagem"> <img align="center" height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 
+ </div>
  
    ![Snake animation](https://github.com/RunnanC-137/RunnanC-137/blob/output/github-contribution-grid-snake.svg)
 
-  </div>
+  
 
 </main>
 
