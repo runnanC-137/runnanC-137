@@ -1,4 +1,4 @@
-## Olá visitante, eu sou o [Runnan](https://runnanc-137.github.io/WebSite-s/)
+## Olá visitante, eu sou o <a href="https://runnanc-137.github.io/WebSite-s/" target="_blank">Runnan</a>
 
 <main>
 
