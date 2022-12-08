@@ -3,7 +3,7 @@
 <main>
 
   ##
-  Eu ficaria muito grato se avalia-se meu trabalho [Meu Portifólio](https://runnanc-137.github.io/WebSite-s/), esse e o meu site onde eu ponho em pratica o meu conhecimento teórico criando projetinhos.
+  [Meu site](https://runnanc-137.github.io/WebSite-s/)
   
   ##
    
