@@ -7,8 +7,8 @@ class SobreMim extends Desenvolvedor {
   local = null;
 }
 class Skills extends Desenvolvedor {
-  linguagens  = ['JS', 'CSS', 'HTML'];
-  bibliotecas  = ["squelize", "express", "bootstrap", "multer" ];
+  linguagens  = ['JS', 'CSS', 'HTML', 'SQL'];
+  bibliotecas  = [["squelize", "mongoose"], "express", "bootstrap", "multer" ];
   frameworks = ["node"];
 }
 ```
