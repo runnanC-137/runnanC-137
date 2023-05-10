@@ -1,15 +1,16 @@
-```js
-import Desenvolvedor from 'Runnan';
-class SobreMim extends Desenvolvedor {
-  nome = 'Ruan Vieira';
+```ts
+import Development;
+class Me extends Development {
+  name = 'Ruan Vieira';
   area = 'Back-end';
-  trabalho = null;
-  local = null;
+  preferences = 'javaScript for backend'
+  life_philosophy = 'javaScript'
 }
-class Skills extends Desenvolvedor {
-  linguagens  = ['JS', 'CSS', 'HTML', 'SQL'];
-  bibliotecas  = [["squelize", "mongoose"], "express", "bootstrap", "multer" ];
-  frameworks = ["node"];
+class Skills extends Me {
+  linguagens  = ['Javascript'/*and TypeScript*/, ['CSS', 'HTML'], 'Sql', 'Dart'];
+  orms = ["squelize", "mongoose", "prisma"]
+  other_libraries  =  ["express", "multer", "react"];
+  frameworks = ["nest"];
 }
 ```
 
