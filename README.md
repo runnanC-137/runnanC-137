@@ -7,7 +7,7 @@ class Me extends Development {
   life_philosophy = 'javaScript'
 }
 class Skills extends Me {
-  linguagens  = ['Javascript'/*and TypeScript*/, ['CSS', 'HTML'], 'Sql', 'Dart'];
+  linguagens  = ['Javascript'/*and TypeScript*/, ['CSS', 'HTML'], 'Sql'];
   orms = ["squelize", "mongoose", "prisma"]
   other_libraries  =  ["express", "fatify", "multer", "react"];
   frameworks = ["nest", "next"];
