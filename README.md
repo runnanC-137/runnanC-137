@@ -3,12 +3,11 @@ import Development;
 class Me extends Development {
   name = 'Ruan Vieira';
   area = 'Back-end';
-  preferences = 'javaScript for backend'
-  life_philosophy = 'javaScript'
+  life_philosophy = 'Back-end';
 }
 class Skills extends Me {
   linguagens  = ['Javascript'/*and TypeScript*/, 'Python', ['CSS', 'HTML'], 'Sql'];
-  orms = ["squelize", "mongoose", "prisma"]
+  orms = ["squelize", "mongoose", "prisma"];
   other_libraries  =  ["express", "fastify", "multer", "react"];
   frameworks = ["nest", "next", "langchain"];
   concepts = ["SOLID", "clean code", "vector store database", "word embeddings", "llm"]
