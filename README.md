@@ -1,18 +1,19 @@
-```ts
-import Development;
-class Me extends Development {
-  name = 'Ruan Vieira';
-  area = 'Back-end';
-  life_philosophy = 'Back-end';
-}
-class Skills extends Me {
-  linguagens  = ['Javascript'/*and TypeScript*/, 'Python', ['CSS', 'HTML'], 'Sql'];
-  orms = ["squelize", "mongoose", "prisma"];
-  other_libraries  =  ["express", "fastify", "multer", "react"];
-  frameworks = ["nest", "next", "langchain"];
-  concepts = ["SOLID", "clean code", "vector store database", "word embeddings", "llm"]
-}
-```
+<h2><b> </b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" /><b> Github Stats</b></h2>
+<p align="center">
+    <img height="180em" width="49%"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=runnanC-137&theme=dracula" alt="runnanC-137" />
+    <img height="180em" width="49%"
+        src="https://github-readme-stats.vercel.app/api?username=runnanC-137&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</p>
+
+<p>
+    <img width="32.7%"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runnanC-137&theme=dracula">
+    <img width="32.7%"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runnanC-137&theme=dracula">
+    <img width="32.7%"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=runnanC-137&theme=dracula">
+</p>
 
 <p align="left">
   <a href="mailto:ruanlons@gmail.com" alt="Gmail">
